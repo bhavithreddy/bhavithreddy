@@ -14,8 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yeltibhavithreddy-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yeltibhavithreddy)
 [![Email](https://img.shields.io/badge/Email-yeltibhavithreddy%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yeltibhavithreddy@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-[YOUR__TWITTER]-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/[YOUR_TWITTER])
-[![Website](https://img.shields.io/badge/Website-[PERSONAL__WEBSITE]-4F46E5?style=flat-square&logo=firefox)](https://[PERSONAL_WEBSITE])
 ![Location](https://img.shields.io/badge/📍-Telangana,_India-16A34A?style=flat-square)
 ![Open to Contribute](https://img.shields.io/badge/Open_to-Contributions-F59E0B?style=flat-square&logo=github)
 
@@ -31,23 +29,11 @@ I believe good DevOps is invisible — systems just work, deployments don't caus
 
 > *"Automate the toil. Document the wisdom. Ship with confidence."*
 
-**What I've shipped at work:**
-- Cut deployment time **40%** by architecting Jenkins + GitHub Actions pipelines for microservices
-- Shrunk Docker image sizes **60%** through multi-stage builds — faster pulls, smaller attack surface
-- Reduced cloud spend by **25%** through resource tagging, right-sizing, and cleanup automation
-- Achieved **95% code coverage** by embedding SonarQube into CI workflows
-
 ---
 
 ## 🔭 Currently Exploring & Contributing To
 
 <!-- Update these as you start contributing -->
-
-| Project | Area | Status |
-|---------|------|--------|
-| [PROJECT_1] | [e.g., Kubernetes controllers / Helm charts] | 🔄 Exploring issues |
-| [PROJECT_2] | [e.g., GitHub Actions workflows / CI tooling] | 🔄 First PR in progress |
-| [PROJECT_3] | [e.g., Prometheus exporters / alerting rules] | 🔄 Reviewing codebase |
 
 *If you maintain a DevOps project and have issues tagged `good first issue` or `help wanted` — I'd love a mention. Details below.*
 
