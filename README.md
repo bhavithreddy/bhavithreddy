@@ -158,11 +158,7 @@ When I open a PR or comment on an issue in your project, I commit to:
 
 ---
 
-## 📊 GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=bhavithreddy&theme=dark&hide_border=true" alt="bhavithreddy's GitHub Stats" />
-
----
 
 ## 📬 Quick Connect
 
@@ -178,7 +174,5 @@ I'm always open to discussions about DevOps problems, open source collaboration,
 <div align="center">
 
 **→ Maintainers: If you have an open issue that needs a DevOps engineer who knows CI/CD, Kubernetes, or AWS — feel free to tag me. I'm actively looking to contribute.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhavithreddy&color=1A56DB&style=flat-square&label=Profile+Views)
 
 </div>
