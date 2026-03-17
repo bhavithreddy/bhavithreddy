@@ -160,17 +160,7 @@ When I open a PR or comment on an issue in your project, I commit to:
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavithreddy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavithreddy&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavithreddy&theme=github-dark-blue&hide_border=true)
-
-</div>
+<img src="https://streak-stats.demolab.com?user=bhavithreddy&theme=dark&hide_border=true" alt="bhavithreddy's GitHub Stats" />
 
 ---
 
