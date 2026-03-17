@@ -10,6 +10,7 @@
 ```
 
 # Hey, I'm Bhavith 👋
+![](https://komarev.com/ghpvc/?username=bhavithreddy)
 ### DevOps Engineer · Cloud Infrastructure · Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yeltibhavithreddy-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yeltibhavithreddy)
@@ -158,7 +159,7 @@ When I open a PR or comment on an issue in your project, I commit to:
 
 ---
 
-
+![](https://raw.githubusercontent.com/bhavithreddy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 📬 Quick Connect
 
